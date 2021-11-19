@@ -40,3 +40,9 @@ CCCCCCCCCCCCCCCC|LLLL | MMM\
 Now the project does simple things and work only on LAN network.\
 feel free to upgrade and add as may things as you like, I'll be more then happy to help with anything.
 
+---
+|User name |Password |
+|----------|---------|
+|test      | test    |
+|master    |master   |
+|yossi     |123      |
