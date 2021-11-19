@@ -1,21 +1,22 @@
 # Online Trivia
 ## Description
-A fun litel trivia game that multipal user can join the server and play.
+A fun littel trivia game that multiple users can join the server and play.
 
 ## Instraction for player
 1. Run the server.py,this file setup the server. 
 2. Run clinet.py.
-3. Now you need to login,ther isn't any option to singin yat so I'll leve 3 users.
-4. After login the main menu show up and you can writ 5 comend.
-5. From her you can play and follow the instraction.
+3. Now you need to login,there isn't any option to singin yet so I'll leave 3 users.
+4. After login the main menu show up and you can write 5 commands.
+5. From here you can play and follow the instractions.
 
 ---
+
 # Application protocol
 ## Messege
 CCCCCCCCCCCCCCCC|LLLL | MMM\
-**c** - represent the commend of the claient.\
-**L** - represend the messege length.\
-**M** - represend client messege.
+**c** -   Represents the commend of the claient.\
+**L** - Represents the messege's length.\
+**M** - Represents client messege.
 ## client -> server
 **Singin request** = LOGIN           |0000|**UserName#Password**\
 **logout request** = LOGOUT          |0000|\
@@ -36,6 +37,6 @@ CCCCCCCCCCCCCCCC|LLLL | MMM\
 
 ---
 # Project status
-The project now just do a simple things and work only on LAN network.\
-feel free to upgrade and add may things as you like, I'll be more then happy to help with any thing.
+Now the project does simple things and work only on LAN network.\
+feel free to upgrade and add as may things as you like, I'll be more then happy to help with anything.
 
